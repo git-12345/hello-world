@@ -17,7 +17,7 @@ body {
 <h2> Deployed from Ansible </h2>
     
  <img src="images/mountain.jpeg" width="250" height="250" alt="img">
-
+ <img src="images/falls.jpg" width="250" height="250" alt="img">
 </body>
 </html>
 
