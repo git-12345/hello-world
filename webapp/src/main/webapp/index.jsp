@@ -15,6 +15,8 @@ body {
 <h2> Deploying WAR file on Tomcat Server </h2>
 <h2> Glad to see you here </h2>
 <h2> Deployed from Ansible </h2>
+    
+ <img src="images/mountain.jpeg" width="250" height="250" alt="img">
 
 </body>
 </html>
