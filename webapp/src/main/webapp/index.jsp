@@ -2,10 +2,10 @@
 <head>
 <style>
 body {
-    background-image: url("images/pic.jpg");
+    background-image: url("images/blank.png");
 }
 .no-background {
-    background-image: url("images/blank.png");
+    background-image: url("images/pic.jpg");
 }
 </style>
 </head>
