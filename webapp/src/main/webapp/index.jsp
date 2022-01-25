@@ -5,7 +5,7 @@
 </style>
 </head>
 <body>
-<h1 class="no-background">"WELCOME GREETINGS"</h1>
+<h1 class="no-background">"Cognizant"</h1>
 
 
 </body>
